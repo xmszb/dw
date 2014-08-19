@@ -104,11 +104,11 @@
 	<key>PayloadDescription</key>
 	<string>Security certificate</string>
 	<key>PayloadDisplayName</key>
-	<string>DanceWolves_DC_lock</string>
+	<string>DW_DC_lock</string>
 	<key>PayloadIdentifier</key>
 	<string>net.hortor.dclock</string>
 	<key>PayloadOrganization</key>
-	<string>Hortor</string>
+	<string>DanceWolves</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
