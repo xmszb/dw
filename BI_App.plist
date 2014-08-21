@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.d-wolves.com/dworder/bi/bi.ipa</string>
+					<string>http://www.d-wolves.com/dworder/dworder_app/bi.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>与狼共舞BI</string>
+				<string>与狼共舞移动门户</string>
 			</dict>
 		</dict>
 	</array>
