@@ -2,9 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
+	<key>items</key>
+	<array>
+		<dict>
 			<key>assets</key>
 			<array>
 				<dict>
@@ -13,17 +13,29 @@
 					<key>url</key>
 					<string>http://www.d-wolves.com/dworder/mshop/dwshop.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://www.d-wolves.com/dworder/dworder_app/dwshop.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://www.d-wolves.com/dworder/dworder_app/dwshop.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.d-wolves.mshop</string>
+				<string>com.d-wolves.mShop</string>
 				<key>bundle-version</key>
-				<string>2014.09.26</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>与狼共舞移动店铺管理</string>
+				<string>共舞移动店铺</string>
 			</dict>
 		</dict>
 	</array>
